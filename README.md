@@ -1,16 +1,15 @@
-### Hi there 👋
+# Munechan Mobile Application
 
-<!--
-**brianbecker4/brianbecker4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains the privacy policy and contact information for the Munechan mobile application.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have any inquiries, please email: brianjamesbecker10@gmail.com
+
+## Privacy Policy
+
+The privacy policy for the Munechan mobile application can be found on the [website](https://brianbecker4.github.io/munechan/).
+
+## About the Website
+
+The website is hosted on GitHub Pages and serves as a platform to display the privacy policy and contact information for the Munechan mobile application. The website is built using HTML and CSS.
